@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Rafael Possenti</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">"Hi, my name is Rafael.\n\nI am software developer since 2011, and I love to create and build things. My goal is to bring together all my skills to work on new technologies and develop things that improves peoples lives.\n\nI am a passionate person and always ready to embrace new experiences!     "</string>
+    <string name="what_is_your_nickname">what is your nickname</string>
+    <string name="done">Done</string>
+</resources>
